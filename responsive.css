@@ -1,0 +1,10 @@
+@media (max-width: 1000px){
+main img{
+    display: block;
+    max-width: 85%;
+    margin: auto;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 15px;
+}
+}

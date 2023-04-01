@@ -1,0 +1,26 @@
+@media (max-width: 1000px) {
+    .decricao p {
+        font-size: 20px;
+        font-family: 'Lobster Two', cursive;
+        text-align: justify;
+      }
+
+    h2{
+        font-size: 18px;
+    }
+
+    .img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .photo {
+        display: none;
+    }
+
+    .photos {
+        display: block;
+        width: 150px;
+        height: 380px;
+    }   
+}
